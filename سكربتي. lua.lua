@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KeonXHub/RedXblack-/r
-  
+loadstring(game:Http
